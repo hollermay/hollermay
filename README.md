@@ -12,7 +12,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hollermay&theme=onedark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hollermay&theme=onedark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+[![An image of @hollermay's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hollermay)](https://holopin.io/@hollermay)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=hollermay&icon=8&color=6)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
