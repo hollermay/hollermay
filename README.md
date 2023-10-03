@@ -1,5 +1,18 @@
 # 💫 About Me:
-👋 Hey there, I'm Udayan Sharma<br><br>I'm a passionate AI/ML enthusiast and frontend developer with a strong belief in the power of technology to transform our world. I thrive on pushing the boundaries of what's possible and enjoy crafting intelligent solutions to complex problems.<br><br>💼 What I Do<br><br>🤖 AI/ML Enthusiast: I'm deeply fascinated by the world of artificial intelligence and machine learning. I've completed the Microsoft AI Skills Challenge, honing my skills in this exciting field.<br><br>🌐 Frontend Developer: I'm equally passionate about crafting delightful user experiences on the web. Whether it's building responsive web applications or creating engaging interfaces, I'm all in!<br><br>🌟 Open Source Advocate: I believe in the spirit of collaboration and giving back to the community. I actively contribute to open-source projects, leveraging my skills to help create valuable tools and resources for others.<br>
+# Hey there, I'm Udayan! (you can call me holler)
+
+I'm a tech enthusiast with a passion for AI/ML and a knack for web wizardry. 🚀
+
+## What you will see here...
+
+- 🤖 **AI/ML Fanatic**: I'm usually found lost in sufring on articles around artificial intelligence and machine learning. I've even conquered the Microsoft AI Skills Challenge!
+
+- 🌐 **Web Wizard**: Crafting captivating web experiences is my specialty. Whether it's making apps dance on all screens or designing eye-catching interfaces, I'm your frontend go-to. Scrimba certified!!! ✨
+
+- 🌟 **Open Source Champion**: I'm a big believer in open-source collaboration. I actively contribute to projects, sharing my snippets of wisdom to create awesome tools for the tech community. 🚀
+
+Let's connect and make some tech magic together! 🌟
+
 
 
 ## 🌐 Socials:
