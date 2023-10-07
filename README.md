@@ -11,7 +11,7 @@ I'm a tech enthusiast with a passion for AI/ML and a knack for web wizardry. �
 
 - 🌟 **Open Source Champion**: I'm a big believer in open-source collaboration. I actively contribute to projects, sharing my snippets of wisdom to create awesome tools for the tech community. 🚀
 
-Let's connect and make some tech magic together! 🌟
+Let's connect and blow things together! 🌟
 
 
 
