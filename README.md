@@ -1,7 +1,7 @@
 # 💫 About Me:
 # Hey there, I'm Udayan! (you can call me holler)
 
-I'm a tech enthusiast with a passion for AI/ML and a knack for web wizardry. 🚀
+I'm a tech enthusiast with a passion for AI/ML,Deep Learning and a drive for designing smooth web pages. 🚀
 
 ## What you will see here...
 
