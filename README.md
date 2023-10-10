@@ -9,7 +9,7 @@ I'm a tech enthusiast with a passion for AI/ML,Deep Learning and a drive for des
 
 - 🌐 **Web Wizard**: Crafting captivating web experiences is my specialty. Whether it's making apps dance on all screens or designing eye-catching interfaces, I'm your frontend go-to. Scrimba certified!!! ✨
 
-- 🌟 **Open Source Champion**: I'm a big believer in open-source collaboration. I actively contribute to projects, sharing my snippets of wisdom to create awesome tools for the tech community. 🚀
+- 🌟 **Open Source Champion**: I'm a big believer in open-source collaboration. I actively contribute to open source projects wherever I find something to add, sharing my snippets of wisdom to create awesome tools for the tech community. 🚀
 
 Let's connect and blow things together! 🌟
 
