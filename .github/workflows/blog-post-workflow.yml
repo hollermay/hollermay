@@ -12,8 +12,10 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
+      - uses: actions/labeler@v2
         with:
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
           # Your RSS feed url
           feed_list: "https://dev.to/feed/hollermay"
           # Maximum number of posts you want
-          max_post_count: 3
+          max_post_count: 2
