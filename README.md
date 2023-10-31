@@ -16,10 +16,6 @@ Let's connect and explore together!! 🌟
 ## Read my DEV.to Articles Here:
 [![Latest blog post workflow](https://github.com/hollermay/hollermay/actions/workflows/blog-post-workflow.yml/badge.svg?branch=main)](https://github.com/hollermay/hollermay/actions/workflows/blog-post-workflow.yml)
 <!-- BLOG-POST-LIST:START -->
-
-
-
-
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌐 Socials:
