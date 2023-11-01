@@ -38,5 +38,3 @@ Let's connect and explore together!! 🌟
 ---
 [![](https://visitcount.itsvg.in/api?id=hollermay&icon=8&color=6)](https://visitcount.itsvg.in)
 
-![Snake animation](https://github.com/hollermay/hollermay/blob/output/github-contribution-grid-snake.svg)
-
