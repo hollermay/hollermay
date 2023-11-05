@@ -7,7 +7,7 @@ I'm a tech enthusiast with a passion for AI/ML,Deep Learning and a drive for des
 
 - 🤖 **AI/ML Enthusiast**: I'm usually found lost in surfing on articles around artificial intelligence and machine learning. I've even conquered the Microsoft AI Skills Challenge!
 
-- 🌐 **Web Wizard**: Crafting captivating web experiences is my specialty. Whether it's making apps on your screens or designing eye-catching interfaces, I'm your frontend go-to being a Scrimba certified!!! ✨
+- 🌐 **Web Development**: Crafting captivating web experiences is my specialty. Whether it's making apps on your screens or designing eye-catching interfaces, I'm your frontend go-to being a Scrimba certified!!! ✨
 
 - 🌟 **Open Source**: I'm a big believer in open-source collaboration. I actively contribute to open source projects wherever I find something to add, sharing my snippets of wisdom to create awesome tools for the tech community. 🚀
 
