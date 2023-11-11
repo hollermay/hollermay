@@ -13,7 +13,7 @@ I'm a tech enthusiast with a passion for AI/ML,Deep Learning and a drive for des
 
 Let's connect and explore together!! 🌟
 
-## Read my DEV.to Articles Here: (which isn't working here)
+## Read my DEV.to Articles Here: (which isn't working right now, we're working on it)
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
