@@ -3,7 +3,7 @@
 ## I'm Udayan! (call me holler)
 
 I'm a tech enthusiast with a passion for AI/ML,Deep Learning and a drive for designing smooth web pages. 🚀
-My Experiences:
+### My Experiences:
 - Graphics Head at Open Source Chandigarh
 - Contributor and Maintainer at Hacktoberfest
 - Campus Leader at Social Winter Of Code (SWOC)
