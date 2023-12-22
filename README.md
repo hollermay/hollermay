@@ -11,11 +11,11 @@ I'm a tech enthusiast with a passion for AI/ML,Deep Learning and a drive for des
 
 ## What you will see here...
 
-- 🤖 **AI/ML Enthusiast**: I'm usually found lost in surfing on articles around artificial intelligence and machine learning. I've even conquered the Microsoft AI Skills Challenge!
+- AI/ML Stuff: You will find some of my mini projects and works here related to that as well as Python developed projects apart from this!
 
-- 🌐 **Web Development**: Crafting mind blowing web experiences is my specialty. Whether it's making apps on your screens or designing eye-catching interfaces, I'm your frontend go-to being a Scrimba certified!!! ✨
+- Web Pages(Static) based on HTML,CSS and JavaScript
 
-- 🌟 **Open Source**: I'm a big believer in open-source collaboration. I actively contribute to open source projects wherever I find something to add, sharing my snippets of wisdom to create awesome tools for the tech community. 🚀
+- Python
 
 Let's connect and explore together!! 🌟
 
