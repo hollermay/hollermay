@@ -1,8 +1,4 @@
-# 💫 About Me:
-# Hey there! 
-## I'm Udayan! (call me holler)
-
-Currently a 2nd year working around my interest that lies in AI/ML and Development.
+### Currently a 2nd year working around my interest that lies in AI/ML and Development.
 
 
 ### My Experiences:
