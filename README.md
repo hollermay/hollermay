@@ -1,4 +1,4 @@
-### Currently a 2nd year working around my interest that lies in AI/ML and Development.
+As a second-year student at Chitkara University, my focus lies in exploring the realms of AI/ML, development, and research. Beyond coding, I have a creative side and love to design and illustrate ;)
 
 
 ### My Experiences:
