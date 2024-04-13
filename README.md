@@ -2,25 +2,24 @@
 # Hey there! 
 ## I'm Udayan! (call me holler)
 
-I'm a tech enthusiast with a passion for AI/ML,Deep Learning and a drive for designing smooth web pages. 🚀
+Currently a 2nd year working around my interest that lies in AI/ML and Development.
+
+
 ### My Experiences:
 - Graphics Head at Open Source Chandigarh
 
-
-## What you will see here...
-
-- AI/ML Stuff: You will find some of my mini projects and works here related to that as well as Python developed projects apart from this!
-
-- Web Pages(Static) based on HTML,CSS and JavaScript
-
-- Python
-
-Let's connect and explore together!! 🌟
-
-## Read my DEV.to Articles Here: (which isn't working right now, we're working on it)
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+### Technical Skills
+- **Languages**:
+  - Python, C/C++, SQL, JavaScript, HTML/CSS, Go, TypeScript
+  
+- **Frameworks**:
+  - JavaScript(MERN Stack), Django, REST, OpenAI, ViteJS
+  
+- **Developer Tools**:
+  - Git, Docker, Google Cloud Platform, VS Code, PyCharm, Microsoft Azure, AWS, Figma
+  
+- **Libraries**:
+  - pandas, NumPy, Matplotlib, PyTorch, Tensorflow\
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hollermay) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=black)](https://instagram.com/im.udayan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/udayan-s-7a8600246/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/UdayanShar29025) 
