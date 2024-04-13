@@ -1,4 +1,4 @@
-As a second-year student at Chitkara University, my focus lies in exploring the realms of AI/ML, development, and research. Beyond coding, I have a creative side and love to design and illustrate ;)
+As a guy who loves to explore and build, my interest lies around AI/ML, Development, and Research. Beyond coding, I have a creative side and love to design and illustrate ;)
 
 
 ### My Experiences:
