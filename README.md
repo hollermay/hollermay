@@ -9,13 +9,10 @@ As a guy who loves to explore and build, my interest lies around AI/ML, Developm
 ### Technical Skills
 - **Languages**:
   - Python, C/C++, SQL, JavaScript, HTML/CSS, Go, TypeScript
-  
 - **Frameworks**:
   - JavaScript(MERN Stack), Django, REST, OpenAI, ViteJS
-  
 - **Developer Tools**:
   - Git, Docker, Google Cloud Platform, VS Code, PyCharm, Microsoft Azure, AWS, Figma
-  
 - **Libraries**:
   - pandas, NumPy, Matplotlib, PyTorch, Tensorflow
 
