@@ -1,4 +1,4 @@
-## Hey there!, I'm Udayan
+# Hey there! I'm Udayan Sharma
 <!DOCTYPE html>
 <html lang="en">
 <head>
