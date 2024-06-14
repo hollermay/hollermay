@@ -1,16 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <style>
-        .container {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-        }
-        .container img {
-            margin: 5px;
-        }
-    </style>
 </head>
 <body>
     <div class="container">
