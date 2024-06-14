@@ -1,17 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <style>
-        .rotated-gif {
-            transform: rotate(90deg);
-            transform-origin: center;
-        }
-    </style>
-</head>
-<body>
-    <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" class="rotated-gif" height="275"/>
-</body>
-</html>
+<img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" class="rotated-gif" height="275"/>
+
 
 As a guy who loves to explore and build, my interest lies around AI/ML, Development, and Research. Beyond coding, I have a creative side and love to design and illustrate ;)
 
@@ -21,11 +9,11 @@ As a guy who loves to explore and build, my interest lies around AI/ML, Developm
 
 ### Technical Skills
 - **Languages**:
-  - Python, C/C++, SQL, JavaScript, HTML/CSS, Go, TypeScript
+  - Python, C/C++, SQL, JavaScript, HTML/CSS
 - **Frameworks**:
   - JavaScript(MERN Stack), Django, REST, OpenAI, ViteJS
 - **Developer Tools**:
-  - Git, Docker, Google Cloud Platform, VS Code, PyCharm, Microsoft Azure, AWS, Figma
+  - Git, Google Cloud Platform, VS Code, PyCharm, AWS, Figma
 - **Libraries**:
   - pandas, NumPy, Matplotlib, PyTorch, Tensorflow
 
