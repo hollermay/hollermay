@@ -22,11 +22,11 @@ As a guy who loves to explore and build, my interest lies around AI/ML, Developm
 - **Languages**:
   - Python, C/C++, SQL, JavaScript, HTML/CSS
 - **Frameworks**:
-  - JavaScript(MERN Stack), Django, REST, OpenAI, ViteJS
+  - JavaScript(MERN), Django,OpenAI, ViteJS
 - **Developer Tools**:
-  - Git, Google Cloud Platform, VS Code, PyCharm, AWS, Figma
+  - Git, VS Code, PyCharm, AWS, Figma
 - **Libraries**:
-  - pandas, NumPy, Matplotlib, PyTorch, Tensorflow
+  - pandas, NumPy, Matplotlib, Tensorflow
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hollermay) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=black)](https://instagram.com/im.udayan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/udayan-s-7a8600246/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/UdayanShar29025) 
