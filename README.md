@@ -17,16 +17,7 @@ As a guy who loves to explore and build, my interest lies around AI/ML, Developm
 
 ### My Experiences:
 - Graphics Head at Open Source Chandigarh
-
-### Technical Skills
-- **Languages**:
-  - Python, C/C++, SQL, JavaScript, HTML/CSS
-- **Frameworks**:
-  - JavaScript(MERN), Django,OpenAI, ViteJS
-- **Developer Tools**:
-  - Git, VS Code, PyCharm, AWS, Figma
-- **Libraries**:
-  - pandas, NumPy, Matplotlib, Tensorflow
+- Active Contributor at GitHub
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hollermay) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=black)](https://instagram.com/im.udayan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/udayan-s-7a8600246/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/UdayanShar29025) 
