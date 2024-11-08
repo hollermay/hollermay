@@ -16,8 +16,7 @@ As a guy who loves to explore and build, my interest lies around AI/ML, Developm
 
 
 ### My Experiences:
-- Lead at Google Develooer Student Clubs (August 2024-Present) 
-- Lead at Google Developer Student Clubs (August 2024-Present) 
+- Lead at Google Developer Groups On Campus Chitkara University (August 2024-Present) 
 - Graphics Head at Open Source Chandigarh (March 2023 - August 2024) 
 - Active Contributor at GitHub (♾️) 
 
