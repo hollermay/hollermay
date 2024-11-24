@@ -12,7 +12,7 @@
 
 
 
-As a guy who loves to explore and build, my interest lies around AI/ML, Development, and Research. Beyond coding, I have a creative side and love to design and illustrate ;)
+Just a chill guy :)
 
 
 ### My Experiences:
@@ -22,7 +22,6 @@ As a guy who loves to explore and build, my interest lies around AI/ML, Developm
 
 ### My Achievements:
 - GitHub Foundations Certified
-- 
 -  Selected for University Coding Academy and being recognized as top 3% Achiever in my department out of 2500
  students.
 - Selected for Smart India Hackathon 2023 Round 1, ranking in the Top 30 out of 400 teams.
