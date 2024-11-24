@@ -18,13 +18,21 @@ As a guy who loves to explore and build, my interest lies around AI/ML, Developm
 ### My Experiences:
 - Lead at Google Developer Groups On Campus Chitkara University (August 2024-Present) 
 - Graphics Head at Open Source Chandigarh (March 2023 - August 2024) 
-- Active Contributor at GitHub (♾️) 
+- Active Contributor at GitHub (♾️)
+
+### My Achievements:
+- GitHub Foundations Certified
+- 
+-  Selected for University Coding Academy and being recognized as top 3% Achiever in my department out of 2500
+ students.
+- Selected for Smart India Hackathon 2023 Round 1, ranking in the Top 30 out of 400 teams.
+- Selected as Google Developer Groups On Campus Orgaizer (formerly GDSC Lead) by Google for Chitkara
+ University.
+
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hollermay) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=black)](https://instagram.com/im.udayan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/udayan-s-7a8600246/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/UdayanShar29025) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hollermay)(https://instagram.com/im.udayan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/udayan-s-7a8600246/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/UdayanShar29025) 
 
-
-<img height="30px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Hacktoberfest2023/hacktoberfest20232.svg">
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=hollermay&theme=onedark&hide_border=false&include_all_commits=true&count_private=false)<br/>
