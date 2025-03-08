@@ -24,6 +24,7 @@ Just a chill guy :)
 - Certifications
   - Github Foundations - GitHub <img src="https://images.credly.com/size/680x680/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" width="25" />
   - Machine Learning Capstone - IBM <img src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/http://coursera-university-assets.s3.amazonaws.com/bb/f5ced2bdd4437aa79f00eb1bf7fbf0/IBM-Logo-Blk---Square.png?auto=format%2Ccompress&dpr=2&w=64&h=64" width = "30" />
+  - IBM Machine Learning Specialization(with honours)<img src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/http://coursera-university-assets.s3.amazonaws.com/bb/f5ced2bdd4437aa79f00eb1bf7fbf0/IBM-Logo-Blk---Square.png?auto=format%2Ccompress&dpr=2&w=64&h=64" width = "30" />
   - AI Foundations for Everyone Specialization<img src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/http://coursera-university-assets.s3.amazonaws.com/bb/f5ced2bdd4437aa79f00eb1bf7fbf0/IBM-Logo-Blk---Square.png?auto=format%2Ccompress&dpr=2&w=64&h=64" width = "30" />
   - Product Ideation, Design, and Management Specialization - University of Maryland, College Park <img src="https://github.com/user-attachments/assets/7a9d412b-b382-42ad-9ef8-da42c0e5b7d5" width ="25"/> 
   - BlockChain Foundation and Practices - INSEAD <img src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/http://coursera-university-assets.s3.amazonaws.com/c9/3ab5b8385f4809ac01eff7e499d23f/L-png-roundel-RGB-green.png?auto=format%2Ccompress&dpr=2&w=64&h=64" width = "25"/>
