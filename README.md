@@ -16,6 +16,7 @@ Just a chill guy :)
 
 
 ### My Experiences:
+- Contributed to Hyperledger Cacti
 - Machine Learning Specialist at Symbolic Analytics Shanghai,China (Remote) (March 2025- April 2025)
 - Lead at Google Developer Groups On Campus Chitkara University (August 2024-Present) 
 - Graphics Head at Open Source Chandigarh (March 2023 - August 2024) 
