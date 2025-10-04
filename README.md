@@ -37,6 +37,7 @@ Just a chill guy :)
 ## <img src="https://github.com/user-attachments/assets/469d0a3d-848c-4f3b-b478-30b2ae364fc3" alt="image" width="25"/> My Medium Articles:
 - [Getting Started with GitLab: A Beginner’s Handbook](https://hollermay.medium.com/getting-started-with-gitlab-a-beginners-handbook-6fc3ef657e2d)
 - [Revolutionizing Industrial Remote Access with RustDesk](https://hollermay.medium.com/revolutionizing-industrial-remote-access-with-rustdesk-a49b137b8f8a)
+- [Automate Everything: Introduction to GitLab’s CI/CD Pipelines](https://hollermay.medium.com/automate-everything-introduction-to-gitlabs-ci-cd-pipelines-01b74c9b6e4f)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hollermay)[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/udayan-s-7a8600246/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/UdayanShar29025) 
