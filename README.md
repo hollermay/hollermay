@@ -16,10 +16,10 @@ Just a chill guy :)
 
 
 ### My Experiences:
-- Junior Software Engineer at Epam Systems (January 2026 - Present)
-- Contributed to Hyperledger Cacti
+- Junior Software Engineer (Data Engineering) at Epam Systems (January 2026 - Present)
+- Lead at Google Developer Groups On Campus Chitkara University (August 2024-August 2025)
 - Machine Learning Specialist at Symbolic Analytics Shanghai,China (Remote) (March 2025- April 2025)
-- Lead at Google Developer Groups On Campus Chitkara University (August 2024-August 2025) 
+- Contributed to Hyperledger Cacti
 - Graphics Head at Open Source Chandigarh (March 2023 - August 2024) 
 - Active Contributor at GitHub (♾️)
 
@@ -42,11 +42,11 @@ Just a chill guy :)
 - [Revolutionizing Industrial Remote Access with RustDesk](https://hollermay.medium.com/revolutionizing-industrial-remote-access-with-rustdesk-a49b137b8f8a)
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hollermay)[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/udayan-s-7a8600246/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/UdayanShar29025) 
+## Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/udayanmoudgil/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/UdayanShar29025) 
 
 
-# 📊 GitHub Stats:
+# GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=hollermay&theme=onedark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hollermay&theme=onedark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hollermay&theme=onedark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
