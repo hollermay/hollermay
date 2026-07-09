@@ -16,7 +16,7 @@ Just a chill guy :)
 
 
 ### My Experiences:
-- Junior Software Engineer (Data Engineering) at Epam Systems (January 2026 - Present)
+- Junior Software Engineer (Data Engineering) at Epam Systems (January 2026 - June 2026)
 - Lead at Google Developer Groups On Campus Chitkara University (August 2024-August 2025)
 - Machine Learning Specialist at Symbolic Analytics Shanghai,China (Remote) (March 2025- April 2025)
 - Contributed to Hyperledger Cacti
