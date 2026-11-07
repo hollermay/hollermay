@@ -19,7 +19,7 @@ Just a chill guy :)
 - Junior Software Engineer (Data Engineering) at Epam Systems (January 2026 - June 2026)
 - Lead at Google Developer Groups On Campus Chitkara University (August 2024-August 2025)
 - Machine Learning Specialist at Symbolic Analytics Shanghai,China (Remote) (March 2025- April 2025)
-- Contributed to Hyperledger Cacti
+- Contributed to Hyperledger Cacti and Trace-ai/burn
 - Graphics Head at Open Source Chandigarh (March 2023 - August 2024) 
 - Active Contributor at GitHub (♾️)
 
